@@ -5,7 +5,7 @@ var txtvalor= document.getElementById('txtvalor')
 
   
 
-   valor = 160
+   txtvalor = 160
 
    var nota100 = 0
    var nota50 = 0
